@@ -4,5 +4,8 @@
   "dependencies": {
     "tilestream": "1.0.0",
     "sqlite3": "2.2.0"
+  },
+  "engines":{ 
+    "node":"0.10.26"
   }
 }
