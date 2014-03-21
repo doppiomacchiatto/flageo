@@ -1,1 +1,1 @@
-web: tilestream --host changeme.herokuapp.com --uiPort=$PORT --tilePort=$PORT --tiles=./tiles
+web: tilestream --host shrouded-sierra-5813.herokuapp.com --uiPort=$PORT --tilePort=$PORT --tiles=./tiles
