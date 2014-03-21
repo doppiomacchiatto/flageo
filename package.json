@@ -3,5 +3,6 @@
   "version": "0.0.1",
   "dependencies": {
     "tilestream": "1.0.0"
+    "sqlite3": 2.2.0"
   }
 }
