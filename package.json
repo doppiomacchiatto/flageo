@@ -4,7 +4,7 @@
   "dependencies": {
     "tilestream": "1.0.0",
     "sqlite3": "2.2.0",
-    "node-sqlite": "2.1.8"
+    "node-sqlite3": "2.1.8"
   },
   "engines":{ 
     "node":"0.10.26"
