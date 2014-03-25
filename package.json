@@ -2,7 +2,7 @@
   "name": "florida-geodata",
   "version": "0.0.1",
   "dependencies": {
-    "tilestream": "1.0.0"
+    "tilestream": "1.1.0"
   },
   "engines":{ 
     "node":"0.10.26"
